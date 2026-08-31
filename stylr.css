@@ -1,0 +1,13 @@
+h1 {
+    color: rgba(112, 9, 153, 0.829);
+    background-color: rgb(71, 127, 231);
+}
+
+body {
+    background-color: rgb(221, 91, 167);
+    text-align: center;
+}
+
+img {
+    width: 950px;
+}
